@@ -1,4 +1,4 @@
 'use strict';
 
-const newGame = window.rps();
+const newGame = window.rps('EN');
 newGame();
